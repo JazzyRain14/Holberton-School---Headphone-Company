@@ -18,7 +18,7 @@ const NavBar = () => {
                         <a href="" className='text-white'>our results</a>
                         <a href="" className='text-white'>contact us</a>
                     </div>
-                    
+
                     <ul className=' list-none flex space-x-5 items-center justify-between'>
                         <li>
                             <Burger isOpen={isOpen} toggleMenu={toggleMenu} />

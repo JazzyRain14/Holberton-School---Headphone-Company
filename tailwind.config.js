@@ -11,8 +11,7 @@ export default {
       },
       colors: {
         'primary': '#FF6565',
-        'secondary': '#D8BACC',
-        'brown-black': '#161010',
+        'secondary': '#071629',
       },
       fontFamily: {
         'SourceReg': ['SourceReg', 'sans-serif'],
